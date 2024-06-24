@@ -9,3 +9,4 @@ whyour/qinglong:2.12
 whyour/qinglong:latest
 minio/minio:latest
 luomubiji/2w:latest
+mlikiowa/llonebot-docker
