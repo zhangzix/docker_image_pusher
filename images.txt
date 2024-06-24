@@ -6,3 +6,6 @@ kasmweb/nginx:1.25.3
 ghcr.io/lagrangedev/lagrange.onebot:edge
 whyour/qinglong:2.11.3
 whyour/qinglong:2.12
+whyour/qinglong:latest
+minio/minio:latest
+luomubiji/2w:latest
