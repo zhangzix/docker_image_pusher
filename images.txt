@@ -1,12 +1,5 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
 ghcr.io/lagrangedev/lagrange.onebot:edge
-whyour/qinglong:2.11.3
-whyour/qinglong:2.12
 whyour/qinglong:latest
-minio/minio:latest
 luomubiji/2w:latest
-mlikiowa/llonebot-docker
+mlikiowa/llonebot-docker:latest
+mlikiowa/llonebot-docker:vnc
