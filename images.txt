@@ -4,3 +4,4 @@ luomubiji/2w:latest
 mlikiowa/llonebot-docker:latest
 mlikiowa/llonebot-docker:vnc
 mlikiowa/napcat-docker:latest
+sickcodes/docker-osx:latest
