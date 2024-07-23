@@ -1,1 +1,1 @@
-icebear67/lagrange-onebot
+docker.io/icebear67/lagrange-onebot:f63e1b
