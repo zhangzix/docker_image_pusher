@@ -1,1 +1,1 @@
-docker.io/icebear67/lagrange-onebot:f63e1b
+ghcr.io/lagrangedev/lagrange.onebot:edge
