@@ -3,3 +3,4 @@ mlikiowa/napcat-docker:latest
 mlikiowa/llonebot-docker:latest
 whyour/qinglong:2.11.3
 whyour/qinglong:latest
+bitnami/kafka:2.13
