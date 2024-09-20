@@ -1,6 +1,1 @@
-ghcr.io/lagrangedev/lagrange.onebot:edge
-mlikiowa/napcat-docker:latest
-mlikiowa/llonebot-docker:latest
-whyour/qinglong:2.11.3
-whyour/qinglong:latest
-bitnami/kafka:2.13
+apache/rocketmq:5.1.0
