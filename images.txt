@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+oceanbase/oceanbase-ce
