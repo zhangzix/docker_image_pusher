@@ -1,1 +1,1 @@
-napcat-docker:latest
+napcat-docker
