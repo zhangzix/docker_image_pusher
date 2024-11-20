@@ -1,1 +1,1 @@
-napcat-docker
+mlikiowa/napcat-docker:latest
