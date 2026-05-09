@@ -1,3 +1,2 @@
 mlikiowa/napcat-docker:latest
-zlmediakit/zlmediakit:master
-
+coturn/coturn
