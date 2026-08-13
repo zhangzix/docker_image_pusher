@@ -2,5 +2,6 @@ whyour/qinglong:latest
 mlikiowa/napcat-docker:latest
 coturn/coturn
 calciumion/new-api
-mihomo
+metacubex/mihomo:v1.19.29
+metacubex/mihomo
 minio
