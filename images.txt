@@ -1,6 +1,6 @@
 whyour/qinglong:latest
 mlikiowa/napcat-docker:latest
 coturn/coturn
-new-api
+calciumion/new-api
 mihomo
 minio
