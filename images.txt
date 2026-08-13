@@ -4,4 +4,4 @@ coturn/coturn
 calciumion/new-api
 metacubex/mihomo:v1.19.29
 metacubex/mihomo
-minio
+minio/minio
