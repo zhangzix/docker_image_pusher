@@ -1,7 +1,6 @@
-whyour/qinglong:latest
-mlikiowa/napcat-docker:latest
-coturn/coturn
+whyour/qinglong
+mlikiowa/napcat-docker
+weishaw/sub2api
 calciumion/new-api
-metacubex/mihomo:v1.19.29
 metacubex/mihomo
 minio/minio
