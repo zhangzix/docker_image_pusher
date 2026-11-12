@@ -1,2 +1,4 @@
 mlikiowa/napcat-docker
-
+whyour/qinglong
+weishaw/sub2api
+calciumion/new-api
