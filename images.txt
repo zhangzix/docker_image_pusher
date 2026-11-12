@@ -1,6 +1,1 @@
-whyour/qinglong
 mlikiowa/napcat-docker
-weishaw/sub2api
-calciumion/new-api
-metacubex/mihomo
-minio/minio
